@@ -5,6 +5,7 @@ npx create-react-app ec-app
 
 # firebase接続
 fireabase login
+
 firebase init
 
 # パッケージのインストール
